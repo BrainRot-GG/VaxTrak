@@ -9,7 +9,6 @@ VaxTrak is a web-based vaccination appointment booking system that allows users 
   - Covishield/Covaxin for age > 18
   - Polio for age < 10
 - 🏥 View hospital listings (Free & Paid)
-- 🗺️ Interactive hospital location map using Leaflet
 - 📅 Book appointments seamlessly
 - 💬 Chatbot powered by Gemini API
 - 🧳 Travel vaccine advisory
@@ -46,7 +45,6 @@ VaxTrak is a web-based vaccination appointment booking system that allows users 
   - **GNews API** – for real-time health news
   - **Gemini API** – for chatbot interaction
   - **Chart API** – for analytics/visuals
-  - **Leaflet.js** – for map display
 
 ## 🚀 Installation
 
